@@ -1,21 +1,17 @@
-# Hi! I'm Rayan Khan 👋
+# Hi, I'm Rayan Khan 👋
 
-🌍 Full Stack Developer (React.js / Next.js, Node.js) based in Kohat, Pakistan  
-🚀 Building scalable web applications, SaaS platforms & AI-powered tools  
-💼 Open to Full Stack / Frontend / AI-integrated development roles  
+**Full Stack Developer** specializing in React.js, Next.js, and Node.js — based in Kohat, Pakistan.
 
----
+I build production-grade web applications, SaaS platforms, and AI-powered tools. Recently reduced mobile load time from 6s to 2s on a live e-commerce platform through SSR optimization and performance tuning.
 
-## 🧠 About Me
-I am a Full Stack JavaScript Developer specializing in building modern web applications using React.js, Next.js, and Node.js.
-
-I focus on creating high-performance, SEO-optimized, and scalable applications with clean UI architecture and real-world functionality. I also work on AI integrations to build intelligent and modern web experiences.
+Open to **Full Stack / Frontend / AI-integrated development roles**.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+**Frontend**
+
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
@@ -23,33 +19,53 @@ I focus on creating high-performance, SEO-optimized, and scalable applications w
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
 
-### Backend & Database
+**Backend & Database**
+
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
-### AI & APIs
-- OpenAI API  
-- Gemini API  
-- Prompt Engineering  
-- AI API Integration  
+**AI & APIs**
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
+[![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co)
 
 ---
 
-## 📌 What I Do
-- Build full-stack web applications (React + Node.js)
-- Develop SaaS and AI-powered tools
-- Optimize performance (SSR, SEO, Core Web Vitals)
-- Create scalable and reusable frontend architectures
+## 🚀 Projects
+
+### [Writlify AI](https://www.writlifyai.com) — AI Writing Platform
+Built a live SaaS-style AI writing platform using Next.js API routes with server-side LLM integration via OpenAI and Gemini APIs. Features 10+ content generation and optimization tools with a fault-tolerant, rate-limited request system secured via Cloudflare. Includes an SEO-focused content layer with 10+ optimized blog pages.
+
+`Next.js` `OpenAI API` `Gemini API` `Cloudflare` `Node.js`
 
 ---
 
-## 🌐 Socials
+### [Inventory Flow](https://inventory-stock.netlify.app) — AI-Powered Inventory Management
+Full-stack inventory management system with AI-driven demand forecasting using Gemini API and Hugging Face models. Features low-stock alerts, expiry tracking, automated email notifications, and an AI assistant for intelligent stock insights.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayankhanfeg@gmail.com)
+`React.js` `Node.js` `Express.js` `Firebase` `Gemini API` `Hugging Face`
 
 ---
 
-💡 *Always learning, building, and improving modern web experiences.*
+### [My Stock](https://mystock.bg) — E-Commerce Platform *(Team Project)*
+Production e-commerce platform built for a real client. Contributed as Next.js developer on dynamic SEO metadata, Core Web Vitals optimization, cart, checkout, flash sales, and order tracking.
+
+`Next.js` `SEO` `Core Web Vitals` `TypeScript`
+
+---
+
+## 📊 GitHub Stats
+
+![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khan670&show_icons=true&hide_border=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khan670&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayankhandev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rayankhan.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@rayankhan.dev)
