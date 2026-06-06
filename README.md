@@ -57,15 +57,8 @@ Production e-commerce platform built for a real client. Contributed as Next.js d
 
 ---
 
-## 📊 GitHub Stats
-
-![Rayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khan670&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khan670&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayankhandev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rayankhan.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@rayankhan.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://rayan-dev-seven.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rayankhanfeg@gmail.com)
