@@ -1,13 +1,13 @@
 # Hi, I'm Rayan Khan 👋
 
-### MERN Stack Developer | React.js | Next.js | Node.js
+### Full-Stack Next.js Developer | React.js | Node.js | PostgreSQL | MongoDB
 
-I'm a **MERN Stack Developer with 2+ years of professional experience** building production-ready web applications, SaaS platforms, and e-commerce solutions.
+Full-Stack Developer with **2+ years of professional experience** building production-ready web applications, SaaS platforms, e-commerce systems, and business solutions.
 
-I specialize in **React.js, Next.js, Node.js, Express.js, and MongoDB**, with a strong focus on clean code, scalable architecture, responsive UI, REST APIs, SEO, and performance optimization.
+I specialize in **Next.js, React.js, Node.js, Express.js, PostgreSQL, Prisma, MongoDB, and Mongoose**, with experience across frontend development, REST APIs, authentication, database design, SEO, performance optimization, and deployment.
 
-📍 Kohat, Pakistan  
-💼 Open to **MERN Stack, Full Stack & Frontend Developer** opportunities
+📍 Kohat, Pakistan
+💼 Open to **Full-Stack, Next.js & MERN Developer** opportunities
 
 ---
 
@@ -29,21 +29,27 @@ I specialize in **React.js, Next.js, Node.js, Express.js, and MongoDB**, with a 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 
+### ORM & Data
+
+`Prisma` · `Mongoose` · `REST APIs` · `JWT` · `RBAC`
+
 ### AI & APIs
 
-[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
-[![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square\&logo=openai\&logoColor=white)](https://openai.com/)
+[![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square\&logo=google\&logoColor=white)](https://ai.google.dev/)
 
 ### Tools & Deployment
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Cloudflare](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
 
 ---
 
@@ -53,60 +59,69 @@ I specialize in **React.js, Next.js, Node.js, Express.js, and MongoDB**, with a 
 
 **AI Writing & Content Platform**
 
-A SaaS-style AI writing platform built with Next.js and integrated with OpenAI and Gemini APIs.
+AI-powered writing platform built with Next.js featuring multiple writing tools and LLM integrations.
 
-- Built AI-powered writing and content optimization tools
-- Implemented server-side API routes for LLM integration
-- Added rate limiting and Cloudflare protection
-- Built an SEO-focused content system with optimized blog pages
+* Integrated OpenAI and Gemini APIs through Next.js API routes
+* Implemented Redis-based rate limiting and Cloudflare Turnstile
+* Built SEO-focused pages and content workflows
 
-**Tech:** `Next.js` `React.js` `Node.js` `OpenAI API` `Gemini API` `Cloudflare`
+**Tech:** `Next.js` `TypeScript` `OpenAI API` `Gemini API` `Redis` `Cloudflare`
 
 ---
 
 ### 📦 [Inventory Flow](https://intentory-stock.netlify.app/)
 
-**Inventory Management SaaS**
+**Inventory Management System**
 
-A full-stack inventory management application for tracking stock, monitoring product expiry, and managing inventory operations.
+Full-stack inventory management platform for managing products, stock, staff, and operational workflows.
 
-- Built inventory and stock management functionality
-- Implemented low-stock and expiry alerts
-- Added automated email notifications
-- Integrated AI-powered demand forecasting and stock insights
+* Implemented JWT authentication and role-based access control
+* Built inventory tracking, expiry monitoring, and low-stock alerts
+* Added automated email notifications and demand forecasting
 
-**Tech:** `React.js` `Node.js` `Express.js` `Firebase` `Gemini API`
+**Tech:** `React.js` `TypeScript` `Node.js` `Express.js` `Firebase`
 
 ---
 
 ### 🛒 [My Stock](https://mystock.bg)
 
-**Production E-Commerce Platform — Team Project**
+**Production E-Commerce Platform — Client Project**
 
-A production e-commerce platform built for a real client.
+Production e-commerce application developed for a real client.
 
-- Developed frontend features using Next.js and TypeScript
-- Implemented dynamic SEO metadata
-- Worked on cart, checkout, flash sales, and order tracking
-- Contributed to Core Web Vitals and frontend performance optimization
+* Developed Next.js features for cart, checkout, flash sales, and order tracking
+* Integrated REST APIs and built responsive interfaces
+* Improved SEO, Core Web Vitals, and frontend performance
 
-**Tech:** `Next.js` `React.js` `TypeScript` `SEO` `Core Web Vitals`
+**Tech:** `Next.js` `TypeScript` `Redux Toolkit` `Tailwind CSS` `REST APIs`
+
+---
+
+### 🏗️ [Opal SA Construction](https://opalsaconstruction.com/)
+
+**Full-Stack Construction & Booking Platform — Client Project**
+
+Full-stack construction platform with booking management, calendar availability, automated email notifications, and an administrative system.
+
+* Built booking and availability management workflows
+* Developed an admin panel for managing bookings and website content
+
+**Tech:** `Next.js` `TypeScript` `Firebase` `Redux Toolkit` `Tailwind CSS` `Nodemailer`
 
 ---
 
 ## 💻 What I Do
 
-- ⚛️ Build modern applications with **React.js & Next.js**
-- 🟢 Develop backend services with **Node.js & Express.js**
-- 🍃 Work with **MongoDB and cloud databases**
-- 🔗 Build and integrate **REST APIs**
-- 🔐 Implement authentication and authorization
-- 📦 Manage application state with **Redux Toolkit**
-- 🎨 Build responsive interfaces with **Tailwind CSS**
-- 🚀 Optimize **SEO, performance, and Core Web Vitals**
-- ☁️ Deploy applications using **Vercel, Netlify & AWS**
-- 🤖 Integrate **OpenAI & Gemini APIs**
-- 🔄 Work with **Git, GitHub & CI/CD workflows**
+* ⚛️ Build scalable applications with **React.js & Next.js**
+* 🟢 Develop backend services and REST APIs with **Node.js & Express.js**
+* 🗄️ Design and work with **PostgreSQL, Prisma, MongoDB & Mongoose**
+* 🔐 Implement authentication, authorization, and RBAC
+* 📦 Build database-driven features and business workflows
+* 🎨 Develop responsive interfaces with **Tailwind CSS**
+* 🚀 Optimize **SEO, Core Web Vitals, and application performance**
+* ☁️ Deploy applications using **Vercel, Netlify, and Cloudflare**
+* 🔄 Work with **Git, GitHub, and CI/CD**
+* 🤖 Integrate **OpenAI and Gemini APIs**
 
 ---
 
